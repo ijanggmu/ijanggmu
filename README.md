@@ -43,7 +43,6 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**PharmacyManagementSystem**](https://github.com/ijanggmu/PharmacyManagementSystem) | Multi-tenant pharmacy management for Nepal: modular-monolith API and web app. [Live demo](https://v0-pharmacy-management-system-nine-fawn.vercel.app) | .NET · Aspire · Next.js |
 | [**HouseBroker**](https://github.com/ijanggmu/HouseBroker) | Listings app where brokers manage properties and only the owning broker sees the commission | .NET 8 · MSSQL · Clean Architecture |
 | [**NEPSE Portfolio Manager**](https://github.com/ijanggmu/portfoliomanagerwithexpensetrackerFrontend) | Multiple portfolios and expense tracking for the Nepal Stock Exchange | Next.js 16 · TypeScript · React Query |
 | [**JobCandidateServiceHub**](https://github.com/ijanggmu/JobCandidateServiceHub) | Job candidate API with domain, application and infrastructure layers, plus tests | .NET · Clean Architecture · PostgreSQL · Docker |
